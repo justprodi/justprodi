@@ -11,7 +11,7 @@ Spanish ![](https://progress-bar.dev/100/)
 English ![](https://progress-bar.dev/100/)
 -----------------------------
 Portuguese ![](https://progress-bar.dev/50/)
-
+-----------------------------
 -----------------------------
 
 HTML - ![](https://progress-bar.dev/100/)
@@ -31,5 +31,7 @@ PHP - ![](https://progress-bar.dev/70/)
 ANGULAR - ![](https://progress-bar.dev/70/)
 -----------------------------
 GO - ![](https://progress-bar.dev/60/)
+-----------------------------
+-----------------------------
 
 
