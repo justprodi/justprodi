@@ -8,27 +8,27 @@
 -----------------------------
 
 Spanish ![](https://progress-bar.dev/100/)
------------------------------
+
 English ![](https://progress-bar.dev/100/)
------------------------------
+
 Portuguese ![](https://progress-bar.dev/50/)
------------------------------
+
 -----------------------------
 
 Html - ![](https://progress-bar.dev/100/)
------------------------------
+
 Css - ![](https://progress-bar.dev/100/)
------------------------------
+
 Bootstrap - ![](https://progress-bar.dev/100/)
------------------------------
+
 JavaScript - ![](https://progress-bar.dev/100/)
------------------------------
+
 SQL - ![](https://progress-bar.dev/100/)
------------------------------
+
 Java - ![](https://progress-bar.dev/100/)
------------------------------
+
 PHP - ![](https://progress-bar.dev/70/)
------------------------------
+
 Angular - ![](https://progress-bar.dev/70/)
 
 GO - ![](https://progress-bar.dev/60/)
