@@ -30,9 +30,8 @@ Java - ![](https://progress-bar.dev/100/)
 PHP - ![](https://progress-bar.dev/70/)
 -----------------------------
 Angular - ![](https://progress-bar.dev/70/)
------------------------------
+
 GO - ![](https://progress-bar.dev/60/)
------------------------------
------------------------------
+
 
 
