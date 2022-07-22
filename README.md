@@ -7,13 +7,11 @@
 
 
 
-Spanish 
------------------------------
-![](https://progress-bar.dev/100/)
+Spanish - ![](https://progress-bar.dev/100/)
 
-English ![](https://progress-bar.dev/100/)
+English - ![](https://progress-bar.dev/100/)
 
-Portuguese ![](https://progress-bar.dev/50/)
+Portuguese - ![](https://progress-bar.dev/50/)
 
 -----------------------------
 
