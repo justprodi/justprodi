@@ -13,7 +13,7 @@ English - ![](https://progress-bar.dev/100/)
 
 Portuguese - ![](https://progress-bar.dev/50/)
 
-Italian - ![](https://progress-bar.dev/20/)
+Italian - ![](https://progress-bar.dev/30/)
 
 -----------------------------
 
