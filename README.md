@@ -11,9 +11,9 @@ Spanish - ![](https://progress-bar.dev/100/)
 
 English - ![](https://progress-bar.dev/100/)
 
-Portuguese - ![](https://progress-bar.dev/50/)
+Portuguese - ![](https://progress-bar.dev/70/)
 
-Italian - ![](https://progress-bar.dev/30/)
+Italian - ![](https://progress-bar.dev/40/)
 
 -----------------------------
 
