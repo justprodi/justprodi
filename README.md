@@ -7,33 +7,25 @@
 
 
 
-Spanish - ![](https://progress-bar.dev/100/)
+                                                      - Ａｂｏｕｔ ｍｅ - 
+                                                      
+                                                "If there's a problem, there's a solution"
 
-English - ![](https://progress-bar.dev/100/)
 
-Portuguese - ![](https://progress-bar.dev/70/)
 
-Italian - ![](https://progress-bar.dev/40/)
+                                                👨‍💻 - Argentinian Software Developer. (Java enjoyer)
+                                                
+                                                🏋️‍♂️ - Gym life.
+                                                  
+                                                💌 - Mind & heart in Spain.
 
------------------------------
-
-Html - ![](https://progress-bar.dev/100/)
-
-Css - ![](https://progress-bar.dev/100/)
-
-Bootstrap - ![](https://progress-bar.dev/100/)
-
-JavaScript - ![](https://progress-bar.dev/100/)
-
-SQL - ![](https://progress-bar.dev/100/)
-
-Java - ![](https://progress-bar.dev/100/)
-
-PHP - ![](https://progress-bar.dev/70/)
-
-Angular - ![](https://progress-bar.dev/70/)
-
-GO - ![](https://progress-bar.dev/60/)
+                                                🐈 - Cat lover.
+                                                        
+                                                🎮 - Gamer. 
+                                                          
+                                                👤 - Discord user. (Prodi The Cat#0001)
+                                                  
+                                                🙋‍♂️ - Also a good friend.
 
 
 
