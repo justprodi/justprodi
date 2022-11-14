@@ -19,7 +19,7 @@
                                                           
                                             👤 - Discord user. (Prodi The Cat#0001)
                                                   
-                                            🙋‍♂️ - Also a good friend.
+                                            🙋‍♂️ - Also a nice friend.
 
 
 
