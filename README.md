@@ -7,19 +7,19 @@
                                                       
                                                 "If there's a problem, there's a solution"
 
-                                                👨‍💻 - Argentinian Software Developer. (Java enjoyer)
+                                            👨‍💻 - Argentinian Software Developer. (Java enjoyer)
                                                 
-                                                🏋️‍♂️ - Gym life.
+                                            🏋️‍♂️ - Gym life.
                                                   
-                                                💌 - Mind & heart in Spain.
+                                            💌 - Mind & heart in Spain.
 
-                                                🐈 - Cat lover.
+                                            🐈 - Cat lover.
                                                         
-                                                🎮 - Gamer. 
+                                            🎮 - Gamer. 
                                                           
-                                                👤 - Discord user. (Prodi The Cat#0001)
+                                            👤 - Discord user. (Prodi The Cat#0001)
                                                   
-                                                🙋‍♂️ - Also a good friend.
+                                            🙋‍♂️ - Also a good friend.
 
 
 
