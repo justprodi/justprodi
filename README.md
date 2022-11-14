@@ -11,7 +11,7 @@
                                                       
                                                 "If there's a problem, there's a solution"
 
-
+![](https://komarev.com/ghpvc/?username=LittleNoqz&color=red&style=flat-square) ![](https://img.shields.io/badge/Welcome%20to%20my%20profile-Prodi%20The%20Cat%230001-red)
 
                                                 👨‍💻 - Argentinian Software Developer. (Java enjoyer)
                                                 
