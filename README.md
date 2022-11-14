@@ -1,9 +1,11 @@
 
+  ![](https://komarev.com/ghpvc/?username=LittleNoqz&color=red&style=flat-square)
+
+
+
                                                       - Ａｂｏｕｔ ｍｅ - 
                                                       
                                                 "If there's a problem, there's a solution"
-
-  ![](https://komarev.com/ghpvc/?username=LittleNoqz&color=red&style=flat-square)
 
                                                 👨‍💻 - Argentinian Software Developer. (Java enjoyer)
                                                 
