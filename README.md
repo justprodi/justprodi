@@ -7,7 +7,6 @@
 
 
   public class Person {
-
     public void showAboutMe(){
         
         System.out.print("
