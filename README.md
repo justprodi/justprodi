@@ -9,7 +9,7 @@
   public class Person {
   
     public void showAboutMe(){
-        System.out.print("
+        System.out.println("
                                                        - 𝗔 𝗯 𝗼 𝘂 𝘁   𝗺 𝗲 - 
                                                       
                                                 "If there's a problem, there's a solution"
