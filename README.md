@@ -7,8 +7,8 @@
 
 
   public class Person {
+  
     public void showAboutMe(){
-        
         System.out.print("
                                                        - 𝗔 𝗯 𝗼 𝘂 𝘁   𝗺 𝗲 - 
                                                       
